@@ -1,0 +1,1 @@
+https://pythonawesome.com/ssd-single-shot-multibox-detector-a-pytorch-tutorial-to-object-detection/
